@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard_BlockList  
 ! Description: This is an ad blocking list based on "AdGuard" and may not be suitable for everyone. 
-! Last modified: 2024-05-08  
+! Last modified: 2024-05-12  
 !
 !
 !
@@ -36,7 +36,6 @@
 ||kuaionline.com^
 ||kuaishouad.cn^
 ||kuaishouzt.com^
-||kunluncan.com^
 ||mbd.wshifen.com^
 ||oceanengine.com^
 ||pddpic.com^
