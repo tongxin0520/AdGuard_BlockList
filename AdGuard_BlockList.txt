@@ -10,7 +10,6 @@
 ||adkwai.com^
 ||adukwai.com^
 ||ampproject.org^
-||bcebos.com^
 ||bugly.qq.com^
 ||bytegoofy.com^
 ||byteorg.com^
