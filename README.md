@@ -8,10 +8,11 @@ Description:
 
 　　The following services cannot be accessed:  
 　　　快手(KuaiShou)  
-　　　拼多多(Pinduoduo)  
+　　　拼多多(PinDuoDuo)  
 
 　　Access to the following services may be affected:  
 　　　中国电信189邮箱(189.cn)  
+　　　中国联通wo商店(wostore.cn^)
 　　　京东(jd.com)  
 　　　抖音(douyin.com)  
 　　　百度(baidu.com)  

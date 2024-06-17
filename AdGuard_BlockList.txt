@@ -27,7 +27,6 @@
 ||esm.baidu.com^
 ||etoote.com^
 ||g1.tagtic.com^
-||in-addr.arpa^
 ||iudd.shuzilm.cn^
 ||jingpaidang.com^
 ||jzt.jd.com^
