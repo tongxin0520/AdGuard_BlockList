@@ -1,7 +1,7 @@
 !
 ! Title: AdGuard_BlockList  
 ! Description: This is an ad blocking list based on "AdGuard" and may not be suitable for everyone. 
-! Last modified: 2024-05-12  
+! Last modified: 2024-06-17  
 !
 !
 !
@@ -10,23 +10,24 @@
 ||adkwai.com^
 ||adukwai.com^
 ||ampproject.org^
+||bcebos.com^
 ||bugly.qq.com^
 ||bytegoofy.com^
 ||byteorg.com^
 ||caid.shuzilm.cn^
 ||cdbaidu.com^
-||chengzijianzhan.cc^
+||cdn-new-ad.wtzw.com.g4.bdydns.com^
+||cdn-new-ad.wtzw.com^
+||cn-fp.apitd.net^
 ||csjplatform.com^
-||dsp-x.jd.com^
 ||e.189.cn^
 ||e.kuaishou.com^
 ||e.qq.com^
 ||e-189.21cn.com^
 ||esm.baidu.com^
 ||etoote.com^
-||fw.jd.com^
 ||g1.tagtic.com^
-||gslb.qianxun.com^
+||in-addr.arpa^
 ||iudd.shuzilm.cn^
 ||jingpaidang.com^
 ||jzt.jd.com^
@@ -36,7 +37,9 @@
 ||kuaishouad.cn^
 ||kuaishouzt.com^
 ||mbd.wshifen.com^
-||oceanengine.com^
+||mon.changyou.com^
+||ocsp.digicert.com^
+||pangolin*.com^
 ||pddpic.com^
 ||pglstatp-toutiao.com^
 ||pinduoduo.com^
@@ -44,5 +47,10 @@
 ||transcosmos-cn.com^
 ||ugdtimg.com^
 ||umeng.com^
-||yximgs.com^
+||v.bsgslb.cn^
+||volces.com^
+||webcast-open.douyin.com^
+||wostore.cn^
+||wpc.phicdn.net^
 ||xlog.jd.com^
+||yximgs.com^
