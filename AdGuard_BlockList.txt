@@ -12,8 +12,6 @@
 ||ampproject.org^
 ||bcebos.com^
 ||bugly.qq.com^
-||bytegoofy.com^
-||byteorg.com^
 ||caid.shuzilm.cn^
 ||cdbaidu.com^
 ||cdn-new-ad.wtzw.com.g4.bdydns.com^
@@ -29,7 +27,6 @@
 ||g1.tagtic.com^
 ||iudd.shuzilm.cn^
 ||jingpaidang.com^
-||jzt.jd.com^
 ||ksapisrv.com^
 ||kuai.com^
 ||kuaionline.com^
@@ -37,7 +34,6 @@
 ||kuaishouzt.com^
 ||mbd.wshifen.com^
 ||mon.changyou.com^
-||ocsp.digicert.com^
 ||pangolin*.com^
 ||pddpic.com^
 ||pglstatp-toutiao.com^
