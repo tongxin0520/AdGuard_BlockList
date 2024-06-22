@@ -1,51 +1,108 @@
 !
 ! Title: AdGuard_BlockList  
-! Description: This is an ad blocking list based on "AdGuard" and may not be suitable for everyone. 
-! Last modified: 2024-06-17  
+! Description: This is an ad blocking list based on "AdGuard" and may not be suitable for everyone. For more information please see the homepage.  
+! Homepage: https://ad.tongxin0520.cc  
+! Last modified: 2024-06-22T08:01:00.025  
 !
+ 
+ 
+! 快手相关服务  
 !
-!
-||6sense.com^
-||ad.qq.com^
 ||adkwai.com^
 ||adukwai.com^
-||ampproject.org^
-||bcebos.com^
-||bugly.qq.com^
-||caid.shuzilm.cn^
-||cdbaidu.com^
-||cdn-new-ad.wtzw.com.g4.bdydns.com^
-||cdn-new-ad.wtzw.com^
-||cn-fp.apitd.net^
-||csjplatform.com^
-||e.189.cn^
 ||e.kuaishou.com^
-||e.qq.com^
-||e-189.21cn.com^
-||esm.baidu.com^
-||etoote.com^
-||g1.tagtic.com^
-||iudd.shuzilm.cn^
-||jingpaidang.com^
 ||ksapisrv.com^
 ||kuai.com^
 ||kuaionline.com^
 ||kuaishouad.cn^
 ||kuaishouzt.com^
-||mbd.wshifen.com^
-||mon.changyou.com^
-||pangolin*.com^
-||pddpic.com^
-||pglstatp-toutiao.com^
-||pinduoduo.com^
-||qm989.com^
-||transcosmos-cn.com^
-||ugdtimg.com^
-||umeng.com^
-||v.bsgslb.cn^
+ 
+! 哔哩哔哩相关服务  
+!
+||api.live.bilibili.com^
+||api.vc.bilibili.com^
+||api-live-bo.biliapi.com^
+||api-live-bo.biliapi.net^
+||broadcast.chat.bilibili.com^
+||cm.bilibili.com^
+||grpc.biliapi.net^
+||line3-h5-mobile-api.biligame.com^
+||live-play.acgvideo.com^
+||mall.bilibili.com^
+||upos-sz-mirrorcos.bilivideo.com^
+ 
+! 阿里、淘宝相关服务    
+!
+||adashbc.ut.taobao.com^
+||adashxgc.ut.taobao.com^
+||baichuan-sdk.alicdn.com.w.cdngslb.com^
+||baichuan-sdk.alicdn.com^
+||baichuan-sdk.taobao.com^
+||com.danuoyi.tbcache.com^
+||tanx.com^
 ||volces.com^
-||webcast-open.douyin.com^
-||wostore.cn^
-||wpc.phicdn.net^
+ 
+! 百度相关服务  
+!
+||bcebos.com^
+||bj-a.bcebos.com.n.shifen.com^
+||cdbaidu.com^
+||esm.baidu.com^
+||mbd.wshifen.com^
+ 
+! 微博相关服务  
+!
+||biz.weibo.com^
+||dpool.sina.com.cn^
+||shop.sc.weibo.com^
+||uve.weibo.com^
+ 
+! 腾讯相关服务  
+!
+||ad.qq.com^
+||bugly.qq.com^
+||e.qq.com^
+||ugdtimg.com^
+ 
+! 拼多多、京东相关服务  
+!
+||pddpic.com^
+||pinduoduo.com^
 ||xlog.jd.com^
+||jingpaidang.com^
+ 
+! 字节跳动、穿山甲相关服务  
+!
+||csjplatform.com^
+||pangolin*.com^
+||pglstatp-toutiao.com^
+||webcast-open.douyin.com^
+ 
+! 七猫小说相关服务  
+!
+||cdn-new-ad.wtzw.com.g4.bdydns.com^
+||cdn-new-ad.wtzw.com^
+||qm989.com^
+ 
+! 电信通讯相关服务  
+!
+||e.189.cn^
+||e-189.21cn.com^
+||wostore.cn^
+ 
+! 友盟和数字联盟  
+!
+||umeng.com^
+||shuzilm.cn^
+ 
+! 其他未分类  
+!
+||6sense.com^
+||ampproject.org^
+||cn-fp.apitd.net^
+||etoote.com^
+||g1.tagtic.com^
+||mon.changyou.com^
+||transcosmos-cn.com^
+||v.bsgslb.cn^
 ||yximgs.com^
