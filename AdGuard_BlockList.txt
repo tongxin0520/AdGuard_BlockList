@@ -2,7 +2,7 @@
 ! Title: AdGuard_BlockList  
 ! Description: This is an ad blocking list based on "AdGuard" and may not be suitable for everyone. For more information please see the homepage.  
 ! Homepage: https://ad.tongxin0520.cc  
-! Last modified: 2024-06-22T08:01:00.025  
+! Last modified: 2024-06-28T08:01:00.025  
 !
  
  
@@ -16,20 +16,6 @@
 ||kuaionline.com^
 ||kuaishouad.cn^
 ||kuaishouzt.com^
- 
-! 哔哩哔哩相关服务  
-!
-||api.live.bilibili.com^
-||api.vc.bilibili.com^
-||api-live-bo.biliapi.com^
-||api-live-bo.biliapi.net^
-||broadcast.chat.bilibili.com^
-||cm.bilibili.com^
-||grpc.biliapi.net^
-||line3-h5-mobile-api.biligame.com^
-||live-play.acgvideo.com^
-||mall.bilibili.com^
-||upos-sz-mirrorcos.bilivideo.com^
  
 ! 阿里、淘宝相关服务    
 !
@@ -52,6 +38,7 @@
  
 ! 微博相关服务  
 !
+||ad.weibo.com^
 ||biz.weibo.com^
 ||dpool.sina.com.cn^
 ||shop.sc.weibo.com^
