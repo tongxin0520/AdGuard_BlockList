@@ -1,0 +1,89 @@
+!
+! Title: AdGuard_BlockList  
+! Description: This is an ad blocking list based on "AdGuard" and may not be suitable for everyone. For more information please see the homepage.  
+! Homepage: https://ad.tongxin0520.cc  
+! Last modified: 2024-07-27T08:01:00.025  
+!
+ 
+ 
+! 快手相关服务  
+!
+||adkwai.com^
+||adukwai.com^
+||kuaishou.com^
+||ksapisrv.com^
+||kuai.com^
+||kuaionline.com^
+||kuaishouad.cn^
+||kuaishouzt.com^
+ 
+! 阿里、淘宝相关服务    
+!
+||adashbc.ut.taobao.com^
+||adashxgc.ut.taobao.com^
+||baichuan-sdk.alicdn.com.w.cdngslb.com^
+||baichuan-sdk.alicdn.com^
+||baichuan-sdk.taobao.com^
+||tanx.com^
+||volces.com^
+ 
+! 百度相关服务  
+!
+||bcebos.com^
+||bj-a.bcebos.com.n.shifen.com^
+||cdbaidu.com^
+||esm.baidu.com^
+||mbd.wshifen.com^
+ 
+! 微博相关服务  
+!
+||ad.weibo.com^
+ 
+! 腾讯相关服务  
+!
+||ad.qq.com^
+||bugly.qq.com^
+||e.qq.com^
+||ugdtimg.com^
+ 
+! 拼多多、京东相关服务  
+!
+||pddpic.com^
+||pinduoduo.com^
+||xlog.jd.com^
+||jingpaidang.com^
+ 
+! 字节跳动、穿山甲相关服务  
+!
+||csjplatform.com^
+||pangolin*.com^
+||pglstatp-toutiao.com^
+||webcast-open.douyin.com^
+ 
+! 七猫小说相关服务  
+!
+||cdn-new-ad.wtzw.com.g4.bdydns.com^
+||cdn-new-ad.wtzw.com^
+||qm989.com^
+ 
+! 电信通讯相关服务  
+!
+||e.189.cn^
+||e-189.21cn.com^
+||wostore.cn^
+ 
+! 友盟和数字联盟  
+!
+||umeng.com^
+||shuzilm.cn^
+ 
+! 其他未分类  
+!
+||6sense.com^
+||ampproject.org^
+||cn-fp.apitd.net^
+||etoote.com^
+||g1.tagtic.com^
+||mon.changyou.com^
+||transcosmos-cn.com^
+||yximgs.com^
